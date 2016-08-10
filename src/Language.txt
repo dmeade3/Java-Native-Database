@@ -7,5 +7,21 @@ Definition of my scripting language for my database:
         -Readability
             -very easy and makes sense
             -lots of real English words
+        -Keywords are minimal and only do a basic operation (think linux command line)
 
-        -
+
+    Creation / Modifying of Database:
+
+        Create Table:
+
+
+        Insert:
+
+
+    Query Language:
+
+        Select
+
+        From
+
+        Where
