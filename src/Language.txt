@@ -1,0 +1,11 @@
+Definition of my scripting language for my database:
+
+    Principles:
+
+        -Redundancy is minimal
+        -Basic
+        -Readability
+            -very easy and makes sense
+            -lots of real English words
+
+    

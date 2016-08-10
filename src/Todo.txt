@@ -1,0 +1,87 @@
+Testing:
+    junit testing:
+
+    Performance testing:
+
+
+Access:
+    Parser:
+
+    Query:
+
+
+User Interfaces:
+    Dedicated command line for database
+
+        write output to file
+
+        run script:
+            Need a a file ending just for my script files
+
+        interactive mode where you type input straight into instead of using script
+
+    Main for if using within program
+
+
+Creation / Modification:
+
+    Based on script:
+        Parser for script:
+            Validate:
+
+            Execute:
+
+    Rules:
+        No 2 columns have same name
+
+
+Store off database to memory:
+
+
+Read in a database:
+
+
+Data Storage:
+
+    Database:
+        Store key data in here
+
+    Table:
+
+        Primary Key:
+            Distinct
+
+        Foreign Key:
+
+
+        Format:
+            [ done ] All arrays same width
+
+            [ done ] Name LinkedList
+                String
+
+            [ done ] Type LinkedList
+                String
+
+
+        Each Column has a type
+            Number
+                Int / Long (Whole)
+
+                Decimal
+
+            String:
+
+            Date:
+                Maybe just use string
+
+                or have this basically be a number thats using different formatting options
+
+
+
+    Quick access:
+
+        Quick compare:
+
+        Multithreaded options:
+            Concurrent Hashmap
