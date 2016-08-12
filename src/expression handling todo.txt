@@ -1,0 +1,90 @@
+Main use will be:
+    a small lightweight database object in java
+
+
+
+
+
+Datastore:
+
+    Hash table of tables:
+        -each table a file
+            -header
+
+    Database loader class:
+        -reads in csv files from a directory
+            -make in excel
+
+    Database Script read / Execute class:
+        -reads in text file as input
+            -word by word
+            -NFA style
+                -use NFA class
+
+
+Program to generate random databases for testing
+
+
+Expression handling:
+
+    -feed pattern like <exp> <and> <exp>
+        -exp has regex and and has regex and looks for all on a loop
+         and if all there it passed
+            -while read in it is converted to a for usable to the boolean evaluater
+
+
+    -boolean expression handling
+
+    -numerical expression handling
+
+    -combinations
+
+Multithreading:
+    -practice section
+
+    -area to develop the multithreading for the database
+
+    -http://www.tutorialspoint.com/java/java_multithreading.htm
+
+    -certain size default multi thread
+
+    -can manual set multi thread option
+
+    worker bee concept:
+        -each thread has an index if where results are stored
+
+        -thread given task then stores result in index
+
+Config file:
+
+
+Define database behavior:
+
+    -read in database from file
+
+
+Testing class:
+    -time
+
+    -operations per command
+
+Expression evaluation:
+    -Operations
+        -Basic
+            -Select
+            -Project
+            -Cartesian product
+            -Union
+            -Difference
+            -Rename
+
+        -Derived
+            -Intersection
+            -Join
+            -Division
+
+Misc.:
+
+    -make large database to test with to make sure time is good
+
+    -Make How to guide
