@@ -39,6 +39,7 @@ Store off database to memory:
 
 
 Read in a database:
+    -use regular expressions to see if the language is correct
 
 
 Data Storage:
